@@ -1,0 +1,11 @@
+Create modules in Terraform
+Create Azure vNet, subnets using Terraform modules
+Basics of git workspace/working directory, staging area & repository,and done the git add , git commit , push practically
+Jenkins - Create a project add it to git create a Jenkins  job to trigger when any changes made to remote git repo
+AWS - Create a pipeline that retrieved the source application from an amazon s3 bucket and deployed it to Amazon Ec2 instances Using codeDeploy (Manually)
+Azure Terraform - 
+Create Resource GroupvNet
+Create Multiple Subnets
+Create public and private subnets
+Attach IP address to public subnets
+Networking - Creating 3 public subnets each with 4000 IPs connected to their Network Interface using terraform.
